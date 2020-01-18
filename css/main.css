@@ -1,0 +1,42 @@
+p.vm {
+    font-size: 32px;
+    font-style: italic;
+}
+
+a.vd:link,
+a.vd:visited {
+    color: black; 
+    background-color: transparent; 
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px 32px;
+}
+
+a.vd:hover,
+a.vd:active {
+    color: #D81B60; 
+    background-color: transparent; 
+    text-decoration: none;
+    font-weight: bold;
+    padding: 15px 32px;
+}
+
+body {
+    background: #eeeeee;
+}
+
+button {
+    background-color: #eeeeee;
+    box-sizing: border-box;
+    border-radius: 3px;
+    border: 2px solid #008577;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px 8px;
+    cursor: pointer;
+    height: 50px;
+    width: 240px;
+}
